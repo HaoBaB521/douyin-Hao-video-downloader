@@ -1,5 +1,3 @@
-# douyin-shipin-xiazaiqi
-
 # v2026.9.24
 
 抖音视频下载器（Douyin Video Downloader）——专门用于抖音的免水印视频下载扩展
